@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		101C5C312ADD5DD800C6F9B0 /* SplashView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 101C5C302ADD5DD800C6F9B0 /* SplashView.swift */; };
+		101C5C352ADD762C00C6F9B0 /* MyTrips.swift in Sources */ = {isa = PBXBuildFile; fileRef = 101C5C342ADD762C00C6F9B0 /* MyTrips.swift */; };
 		3D3E3B522AD42D2000D530AB /* GohAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D3E3B512AD42D2000D530AB /* GohAppApp.swift */; };
 		3D3E3B542AD42D2000D530AB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D3E3B532AD42D2000D530AB /* ContentView.swift */; };
 		3D3E3B562AD42D2100D530AB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3D3E3B552AD42D2100D530AB /* Assets.xcassets */; };
@@ -42,6 +44,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		101C5C302ADD5DD800C6F9B0 /* SplashView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashView.swift; sourceTree = "<group>"; };
+		101C5C342ADD762C00C6F9B0 /* MyTrips.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTrips.swift; sourceTree = "<group>"; };
 		3D3E3B4E2AD42D2000D530AB /* GohApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GohApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3D3E3B512AD42D2000D530AB /* GohAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GohAppApp.swift; sourceTree = "<group>"; };
 		3D3E3B532AD42D2000D530AB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -111,12 +115,14 @@
 			isa = PBXGroup;
 			children = (
 				3D3E3B512AD42D2000D530AB /* GohAppApp.swift */,
+				101C5C302ADD5DD800C6F9B0 /* SplashView.swift */,
 				3D3E3B532AD42D2000D530AB /* ContentView.swift */,
 				562B3EFA2ADC0EEC003985A9 /* TabBarViwe.swift */,
 				562B3EFC2ADC0F70003985A9 /* LoginScreenView.swift */,
 				562B3EFE2ADC0F9A003985A9 /* SignUpView.swift */,
 				562B3F002ADC0FC6003985A9 /* MyTripsView.swift */,
 				562B3F022ADC100A003985A9 /* DiscoverView.swift */,
+				101C5C342ADD762C00C6F9B0 /* MyTrips.swift */,
 				3D3E3B7F2ADAEC9100D530AB /* invitationsPage.swift */,
 				3D3E3B852ADB336B00D530AB /* testPage.swift */,
 				3D3E3B8A2ADB58E800D530AB /* createPage.swift */,
@@ -285,9 +291,11 @@
 				3D3E3B542AD42D2000D530AB /* ContentView.swift in Sources */,
 				562B3EFD2ADC0F70003985A9 /* LoginScreenView.swift in Sources */,
 				3D3E3B522AD42D2000D530AB /* GohAppApp.swift in Sources */,
+				101C5C352ADD762C00C6F9B0 /* MyTrips.swift in Sources */,
 				562B3EFF2ADC0F9A003985A9 /* SignUpView.swift in Sources */,
 				3D3E3B862ADB336B00D530AB /* testPage.swift in Sources */,
 				562B3F012ADC0FC6003985A9 /* MyTripsView.swift in Sources */,
+				101C5C312ADD5DD800C6F9B0 /* SplashView.swift in Sources */,
 				562B3F032ADC100A003985A9 /* DiscoverView.swift in Sources */,
 				3D3E3B802ADAEC9200D530AB /* invitationsPage.swift in Sources */,
 				3D3E3B8B2ADB58E800D530AB /* createPage.swift in Sources */,
