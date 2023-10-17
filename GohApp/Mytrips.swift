@@ -59,6 +59,8 @@ struct MyTrips: View {
             
             
             
+            
+            
         }
         .padding()
     
